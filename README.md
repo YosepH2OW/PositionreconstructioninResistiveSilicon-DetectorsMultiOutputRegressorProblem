@@ -1,4 +1,3 @@
 [Data_Science_Lab__Project_Assignment_Winter_2024.pdf](https://github.com/user-attachments/files/17180190/Data_Science_Lab__Project_Assignment_Winter_2024.pdf)
 
-
-[Position_reconstruction_in_Resistive_Silicon_Detectors_MultiOutputRegressor_Problem.pdf](https://github.com/user-attachments/files/17180191/Position_reconstruction_in_Resistive_Silicon_Detectors_MultiOutputRegressor_Problem.pdf)
+[Position_reconstruction_in_Resistive_Silicon_Detectors_MultiOutputRegressor_Problem.pdf](https://github.com/user-attachments/files/17180215/Position_reconstruction_in_Resistive_Silicon_Detectors_MultiOutputRegressor_Problem.pdf)
